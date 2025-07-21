@@ -12,7 +12,6 @@ I'm a passionate **Full Stack Developer** with a stronghold in the **MERN Stack*
 
 - **Ethereum (Solidity)**
 - **Solana (Rust)**
-- **TON Blockchain**
 
 🔧 **Stacks & Tools I Work With**
 - 🌐 Full Stack: `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Next.js`
@@ -26,6 +25,13 @@ I'm a passionate **Full Stack Developer** with a stronghold in the **MERN Stack*
 
 🎯 **My Goal**
 To become a top-tier developer, blending seamless user experiences with powerful backend and blockchain innovations.
+
+**Some Good Projects**
+**https://calm-sphere.vercel.app**
+**https://asume.vercel.app**
+**https://cronotag.vercel.app**
+**https://newscope.in**
+**https://www.outdatedlabs.com**
 
 📬 **Reach Me At**
 - 📧 Email: [rajsha8617@gmail.com](mailto:rajsha8617@gmail.com)
